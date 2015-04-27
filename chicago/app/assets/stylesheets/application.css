@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+ 
+ 
+  h2 {
+    color: white;
+    background: #006;
+    padding: 6px;
+    text-align: center;
+  }
+  .price {
+    color: green;
+    border: solid 3px green;
+    padding: 4px;
+  }
+  img {
+    float: left;
+    margin-right: 40px;
+    box-shadow: 8px 8px 4px gray;
+    height: "200px";
+  }
+  p {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+
+  h1 {
+    border-bottom: solid 3px gray;
+    margin-bottom: 24px;
+  }
+
+  label { width: 100px; vertical-align: middle;}
+ 
